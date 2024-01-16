@@ -1,0 +1,3 @@
+[libraries]
+# executable jar
+jackson-databind = { module = "com.fasterxml.jackson.core:jackson-databind", version = "2.12.5" }

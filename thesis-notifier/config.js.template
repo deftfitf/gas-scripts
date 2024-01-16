@@ -1,0 +1,7 @@
+var CONFIG = {
+    SPREADSHEET_ID: '...',
+    OPENAPI_KEY: '...',
+    OPENAPI_ENDPOINT: 'https://api.openai.com/v1/chat/completions',
+    LINE_NOTIFY_TOKEN: '',
+};
+
